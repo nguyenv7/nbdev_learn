@@ -1,5 +1,5 @@
-# Project name here
-> Summary description here.
+# Nbdev libarary learn
+> Learn how to use and configuration
 
 
 This file will become your README and also the index of your documentation.
@@ -10,15 +10,15 @@ This file will become your README and also the index of your documentation.
 
 ## How to use
 
-Fill me in please! Don't forget code examples:
+Code example
 
+```python
+say_hello('linh')
 ```
-1+1
-```
 
 
 
 
-    2
+    'Hello linh'
 
 
